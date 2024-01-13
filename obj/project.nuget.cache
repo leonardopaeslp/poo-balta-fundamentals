@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "t0fKr7w3FvA71+D9r/j0qYxGP8OcNarvwqjQC3ZHFzgPjqF71hTmqhmQjQHE/MF8mw5WmHGR6D0qZ28ITttUWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leopa\\OneDrive\\Documentos\\Balta\\NET_Developer_Fundamentals\\POO\\mao_na_massa_poo\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leopa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\leopa\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\leopa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\leopa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
